@@ -47,4 +47,10 @@ JUNK + fd + bk + JUNK + shell_address
 
 במכונה לוקאלית לעומת בשרת, הגודל של הצ'אנקים שמוקצים בheap שונים ולכן יש לשנות את הגדלים של JUNK ולכן גם את הערך של fd.
 
+<div dir='ltr'>
+    <span style="font-size: 20px">FLAG: </span>
+    <span>
+    conditional_write_what_where_from_unl1nk_explo1t
+    </span>
+</div>
 </div>
